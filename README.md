@@ -1,8 +1,8 @@
 # Indie_Studio
-Video game bomberman
-Coded with C++ (SFML and Irrlicht) and CMake
-Time : 1 week
-Team of 3 people
+Video game bomberman\n
+Coded with C++ (SFML and Irrlicht) and CMake\n
+Time : 1 week\n
+Team of 3 people\n
 
 Q,Z,S,D : Move the character 1
 Directional arrows : Move the character 2
